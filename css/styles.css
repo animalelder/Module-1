@@ -220,6 +220,10 @@ button:focus,
     .vegas {
       max-width: fit-content;
     }
+    .logo {
+      max-width: 175px;
+      max-height: 62px;
+    }
   }
   @media all and (min-width: 500px) and (max-width: 750px){
     .grid {
